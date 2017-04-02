@@ -1,6 +1,8 @@
 
 # Alphanumeric
 
+https://github.com/aaronfranke/Alphanumeric
+
 Alphanumeric - A program for removing special characters. Created by Aaron Franke.
 
 Usage: java -jar alphanumeric.jar [filename] [arguments] 
